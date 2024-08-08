@@ -1,0 +1,13 @@
+.idea
+.vscode
+venv
+config/config.json
+.env
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+.mypy_cache
+*.bin
